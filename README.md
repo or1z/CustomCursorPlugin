@@ -22,7 +22,7 @@
 - **GitHub**: [or1z](https://github.com/or1z)
 
 ## License
-This plugin is released under the [MIT License](https://opensource.org/licenses/MIT).
+This plugin is released under the [MIT License]([https://opensource.org/licenses/MIT](https://github.com/or1z/CustomCursorPlugin/blob/main/LICENSE)).
 
 ## Changelog
 ### 1.0.0 - Initial Release
